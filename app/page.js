@@ -45,11 +45,11 @@ return (
   <div suppressHydrationWarning>
     <HeroSection />
     <AboutSection />  {/* Uncomment this and test */}
-    {/* <Experience /> */}
-    {/* <Skills /> */}
-    {/* <Projects /> */}
-    {/* <Education /> */}
-    {/* <ContactSection /> */}
+    <Experience /> 
+    <Skills /> 
+    <Projects /> 
+    <Education /> 
+    <ContactSection />
   </div>
 )
 };
