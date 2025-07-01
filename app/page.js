@@ -36,8 +36,8 @@ return (
     <Experience /> 
     <Skills /> 
     <Projects /> 
-    <Education /> 
-    <ContactSection />
+    /*<Education /> 
+    <ContactSection />*/
   </div>
 )
 };
